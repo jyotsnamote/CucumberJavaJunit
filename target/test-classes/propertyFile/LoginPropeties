@@ -1,0 +1,20 @@
+browser=chrome
+emailAddress=jyotsnamote@gmail.com
+customer_firstname=Jyotsna
+customer_lastname=Patil
+passwd=Abc@1234
+days=2
+ months =2
+ years = 2000
+ firstname = Jyotsna
+lastname = Patil
+company = Accenture
+address1 = ABC building
+address2 = Airoli
+city =Navi Mumbai
+state = Maharashtra
+postcode = 00000
+phone_mobile=8082007315
+alias=test
+
+
